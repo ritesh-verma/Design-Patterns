@@ -1,0 +1,5 @@
+The total number of words is: 6976
+The most frequently used word is: of  
+The frequency of the most frequently used word is: 248
+The number of characters (without whitespaces) is: 36522
+The word 'The' occurs the following times: 32
